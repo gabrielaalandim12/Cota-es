@@ -1,2 +1,2 @@
-# Cota-es
+# Cotacoes
 Cotações de ações
